@@ -5,7 +5,7 @@
   "keywords": ["swo", "instrumentation", "performance", "opentelemetry", "observability"],
   "readme": "./README.md",
   "license": "Apache-2.0",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
     "open-telemetry/api": "@beta",
     "open-telemetry/context": "@beta",
